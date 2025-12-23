@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Emm Austria
 
-<!--
-**auesemm/auesemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero en Sistemas  
+💻 Desarrollador de software en formación  
+🚀 Interesado en desarrollo web y soluciones funcionales
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Objetivo
+Construir proyectos de software claros, bien estructurados y útiles,
+demostrando buenas prácticas y lógica de programación.
+
+---
+📫 Contacto: (próximamente)
+
+
+
